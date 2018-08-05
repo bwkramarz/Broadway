@@ -1,0 +1,44 @@
+.header {
+background-color: black;
+}
+
+body {
+  text-align: center;
+}
+
+.header {
+  background-color: black;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(#);
+}
+
+h4 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 14px;
+}
